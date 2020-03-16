@@ -1,0 +1,17 @@
+{
+  "name": "mega-api",
+  "version": "1.0.0",
+  "description": "Middleware API handler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Cimpeanu",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "mongodb": "^3.5.4",
+    "request": "^2.88.2",
+    "save": "^2.4.0"
+  }
+}
